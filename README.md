@@ -1,4 +1,6 @@
-# DigitalWallet
+# Tp Realizado en la cursada de Construcción de Interfaces de Usuario en la UNQ en el segundo cuatrimestre de 2019
+
+## DigitalWallet
 
 Un inversor está buscando desarrollar una plataforma financiera para administrar dinero y fomentar el uso de dinero digital para realizar operaciones sin necesidad del billete físico. Para esto quiere construir una billetera virtual donde los usuarios podrán acceder a: 
 
